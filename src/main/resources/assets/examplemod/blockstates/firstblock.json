@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "examplemod:block/firstblock"
+    },
+    "facing=south": {
+      "model": "examplemod:block/firstblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "examplemod:block/firstblock",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "examplemod:block/firstblock",
+      "y": 90
+    },
+    "facing=up": {
+      "model": "examplemod:block/firstblock",
+      "x": -90
+    },
+    "facing=down": {
+      "model": "examplemod:block/firstblock",
+      "x": 90
+    }
+  }
+}
